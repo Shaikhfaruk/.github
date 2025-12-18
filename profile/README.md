@@ -174,7 +174,8 @@ Dr. Babasaheb Ambedkar Marathwada University, Aurangabad | 2021 - 2024
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
 | Elern School CMS | Transform Your School Management | [Live Demo](https://school.elern.io/) |
-| Advance Splitwise | Expense splitting and management tool | [Live Demo](https://splitspay.vercel.app/) |
+| SaathiBachat Advance Splitwise | Expense splitting and management tool | [Live Demo](https://saathibachat.com/) |
+| Code Crushers | Expense splitting and management tool | [Live Demo](https://codecrushers.in/) |
 | Age Calculator | Calculate age with precision | [Live Demo](https://age-calculator-five-iota.vercel.app/) |
 | Unit Converter Plus | Multi-unit conversion utility | [Live Demo](https://unit-converter-plus.vercel.app/) |
 | Chinu Chat | Real-time messaging application | [Live Demo](https://chinu-chat.vercel.app/) |
